@@ -535,7 +535,7 @@ export const siteContent = {
           "An evening for in-person and remote guests — production handled so the focus stayed on the stories.",
         story: "",
         cover: {
-          src: "/images/projects/unicef-donor-love-club/hero.jpg",
+          src: "/images/projects/unicef-donor-love-club/hero.jpeg",
           alt: "UNICEF Donor Love Club group portrait on stage with event branding",
           width: 2592,
           height: 1728,
@@ -543,28 +543,28 @@ export const siteContent = {
         },
         gallery: [
           {
-            src: "/images/projects/unicef-donor-love-club/gallery-01.jpg",
+            src: "/images/projects/unicef-donor-love-club/new-gallery-01.jpeg",
             alt: "Engaged audience during the UNICEF Donor Love Club session",
             width: 2592,
             height: 1728,
             objectPosition: "50% 50%",
           },
           {
-            src: "/images/projects/unicef-donor-love-club/gallery-02.jpg",
+            src: "/images/projects/unicef-donor-love-club/new-gallery-02.jpeg",
             alt: "Group activity with confetti at the UNICEF Donor Love Club event",
             width: 2592,
             height: 1728,
             objectPosition: "50% 50%",
           },
           {
-            src: "/images/projects/unicef-donor-love-club/gallery-03.jpg",
+            src: "/images/projects/unicef-donor-love-club/new-gallery-03.jpeg",
             alt: "Celebratory moment with UNICEF branding at the donor event",
             width: 2592,
             height: 1728,
             objectPosition: "50% 50%",
           },
           {
-            src: "/images/projects/unicef-donor-love-club/gallery-04.jpg",
+            src: "/images/projects/unicef-donor-love-club/new-gallery-04.jpeg",
             alt: "Candid laughter among guests at the UNICEF Donor Love Club gathering",
             width: 2592,
             height: 1728,
