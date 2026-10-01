@@ -530,7 +530,7 @@ export const siteContent = {
       {
         id: "unicef-donor-love-club",
         category: "Hybrid Event Production",
-        title: "UNICEF Donor Love Club",
+        title: "GALLERY",
         opening:
           "An evening for in-person and remote guests — production handled so the focus stayed on the stories.",
         story: "",
