@@ -529,10 +529,10 @@ export const siteContent = {
       },
       {
         id: "unicef-donor-love-club",
-        category: "Hybrid Event Production",
+        category: "Our other events",
         title: "GALLERY",
         opening:
-          "An evening for in-person and remote guests — production handled so the focus stayed on the stories.",
+          "A collection of moments, experiences, and events brought to life by DPNX! Event Solution.",
         story: "",
         cover: {
           src: "/images/projects/unicef-donor-love-club/hero.jpeg",
